@@ -1,2 +1,8 @@
 build:
   version: 2.0
+
+users:
+  message: "This is default APIs"
+  contactDetails:
+    name: "Anurag Babal"
+    email: "babalanurag2@gmail.com"
