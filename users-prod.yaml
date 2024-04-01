@@ -4,5 +4,5 @@ build:
 users:
   message: "This is prod APIs"
   contactDetails:
-    name: "{cipher}c0d367b9622f05fd0a0e46e346393173f2a967e87dfe2670e9606d84e0d83b85ccd528ff246db628ef0198eb3d358d75"
-    email: "babalanurag2@gmail.com"
+    name: "Anurag Babal"
+    email: "{cipher}c0d367b9622f05fd0a0e46e346393173f2a967e87dfe2670e9606d84e0d83b85ccd528ff246db628ef0198eb3d358d75"
