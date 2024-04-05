@@ -17,7 +17,7 @@ management:
       exposure:
         include: "*"
 
-eurka:
+eureka:
   instance:
     preferIpAddress: true
   client:

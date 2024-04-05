@@ -34,7 +34,7 @@ management:
 #  shutdown:
 #    enabled: true
 
-eurka:
+eureka:
   instance:
     preferIpAddress: true
   client:
