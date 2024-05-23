@@ -7,7 +7,7 @@ spring:
       ddl-auto: update
     show-sql: true
   datasource:
-    url: jdbc:mysql://auth-db:3306/financier_auth_db
+    url: jdbc:mysql://localhost:3307/financier_auth_db
     username: root
     password: root
 
@@ -24,7 +24,7 @@ eureka:
     fetchRegistry: true
     registerWithEureka: true
     serviceUrl:
-      defaultZone: http://discovery-server:8070/eureka/
+      defaultZone: http://localhost:8070/eureka/
 
 info:
   app:
