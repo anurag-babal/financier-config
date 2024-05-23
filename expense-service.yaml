@@ -7,7 +7,7 @@ spring:
       ddl-auto: update
     show-sql: true
   datasource:
-    url: jdbc:mysql://expense-db:3308/financier_expense_db
+    url: jdbc:mysql://localhost:3308/financier_expense_db
     username: root
     password: root
 
