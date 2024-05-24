@@ -28,8 +28,16 @@ management:
   endpoint:
     gateway:
       enabled: true
+    health:
+      probes:
+        enabled: true
   info:
     env:
+      enabled: true
+  health:
+    liveness-state:
+      enabled: true
+    readiness-state:
       enabled: true
   metrics:
     tags:
