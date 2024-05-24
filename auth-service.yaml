@@ -7,7 +7,7 @@ spring:
       ddl-auto: update
     show-sql: true
   datasource:
-    url: jdbc:mysql://localhost:3307/financier_auth_db
+    url: jdbc:mysql://192.168.56.11:3306/financier_auth_db
     username: root
     password: root
 
